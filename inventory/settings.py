@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-a(*5c)*8*gza*x93l=ur822^&@7+0#h^+x^%+ci_87auib=1f&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['vaibhavback-end.azurewebsites.net']
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:4200',
 ]
